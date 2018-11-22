@@ -6,7 +6,8 @@ This project reunited a set of libraries and EPICS IOCs to allow access cRIO boa
 
 ## Related repositories
 
+* [crio-labview](https://gitlab.cnpem.br/SOL/LabViewRT/crio-linux)
 * [crio-linux-libs](https://gitlab.cnpem.br/SOL/Projetos/crio-linux-libs)
-* [binary-crio](https://gitlab.cnpem.br/SOL/EpicsApps/crio-linux/binary-crio)
-* [crio-dev-sup](https://gitlab.cnpem.br/SOL/EpicsApps/crio-linux/crio-dev-sup)
-* [crio-linux-labview](https://gitlab.cnpem.br/SOL/LabViewRT/crio-linux)
+* [crio-epics-dev-sup](https://gitlab.cnpem.br/SOL/EpicsApps/crio-linux/crio-dev-sup)
+* [crio-epics-ioc](https://gitlab.cnpem.br/SOL/EpicsApps/crio-linux/scaler-crio.git) 
+* [crio-binary](https://gitlab.cnpem.br/SOL/EpicsApps/crio-linux/binary-crio)
