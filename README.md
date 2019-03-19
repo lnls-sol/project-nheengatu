@@ -11,3 +11,8 @@ This project reunited a set of libraries and EPICS IOCs to allow access cRIO boa
 * [crio-epics-dev-sup](https://gitlab.cnpem.br/SOL/EpicsApps/crio-linux/crio-dev-sup)
 * [crio-epics-ioc](https://gitlab.cnpem.br/SOL/EpicsApps/crio-linux/crio-ioc.git) 
 []( *[crio-binary](https://gitlab.cnpem.br/SOL/EpicsApps/crio-linux/binary-crio) )
+
+## Supporting repositories
+
+* [CRIO first setup](https://gitlab.cnpem.br/SOL/Projetos/crio-first-setup)
+* [NFS setup on CRIO](https://gitlab.cnpem.br/SOL/Network/nfs-epics-scripts)
