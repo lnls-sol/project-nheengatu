@@ -16,3 +16,4 @@ This project reunited a set of libraries and EPICS IOCs to allow access cRIO boa
 
 * [CRIO first setup](https://gitlab.cnpem.br/SOL/Projetos/crio-first-setup)
 * [NFS setup on CRIO](https://gitlab.cnpem.br/SOL/Network/nfs-epics-scripts)
+* [CRIO development Container](https://gitlab.cnpem.br/SOL/Docker/dev-crio.git)
