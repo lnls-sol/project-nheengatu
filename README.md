@@ -2,11 +2,11 @@
 
 "Nheengatu" is a tupi-guarani (language from brazilian indians) word and means "good language"/"easy language".
 
-In this project, a set of libraries to communicate with LabVIEW VIs running on the Compact RIO 9035/9045 were developed.
-Furthermore, EPICS device support to communicate with these libraries was also developed. The developed device support 
-together with the devised libraries allow access to Compact RIO VI variables whether implemented on the FPGA or on LinuxRT
-as a LabVIEW-RT VI. Other helper projects such as setting up a clean compactRIO and configuration generation scripts were 
-also developed.
+In this project, a set of libraries to communicate with LabVIEW VIs running on the Compact RIO 9035/9045 from applications
+running on the LinuxRT user space were developed. Furthermore, EPICS device support to communicate with these libraries was
+also developed. The developed device support together with the devised libraries allow access to Compact RIO VI variables 
+whether implemented on the FPGA, or on LinuxRT as a LabVIEW-RT VI. Other helper projects such as setting up a clean compactRIO
+and configuration generation scripts were also developed.
 
 ## Core repositories
 
