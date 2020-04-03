@@ -1,0 +1,21 @@
+[submodule "nheengatu-labview"]
+	path = nheengatu-labview
+	url = https://github.com/lnls-sol/nheengatu-labview
+[submodule "nheengatu-linuxlibs"]
+	path = nheengatu-linuxlibs
+	url = https://github.com/lnls-sol/nheengatu-linuxlibs.git
+[submodule "nheengatu-devsup"]
+	path = nheengatu-devsup
+	url = https://github.com/lnls-sol/nheengatu-devsup.git
+[submodule "nheengatu-ioc"]
+	path = nheengatu-ioc
+	url = https://github.com/lnls-sol/nheengatu-ioc.git
+[submodule "nheengatu-nifpga"]
+	path = nheengatu-nifpga
+	url = https://github.com/lnls-sol/nheengatu-nifpga.git
+[submodule "nheengatu-autogenscripts"]
+	path = nheengatu-autogenscripts
+	url = https://github.com/lnls-sol/nheengatu-autogenscripts.git
+[submodule "nheengatu-criofirstsetup"]
+	path = nheengatu-criofirstsetup
+	url = https://github.com/lnls-sol/nheengatu-criofirstsetup.git
