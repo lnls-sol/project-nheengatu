@@ -21,7 +21,7 @@ and configuration generation scripts were also developed.
 ## Nheengatu Repositories
 
 * [Labview library](https://github.com/lnls-sol/nheengatu-labview.git)
-* [Linux-RT libary](https://github.com/lnls-sol/nheengatu-linuxlibs.git)
+* [Linux-RT library](https://github.com/lnls-sol/nheengatu-linuxlibs.git)
 * [EPICS device support](https://github.com/lnls-sol/nheengatu-devsup.git)
 * [EPICS IOC](https://github.com/lnls-sol/nheengatu-ioc.git) 
 * [NI FPGA library](https://github.com/lnls-sol/nheengatu-nifpga.git)
