@@ -10,10 +10,10 @@ and configuration generation scripts were also developed.
 
 ## Cloning
 
- $ git clone --recurse-submodules https://github.com/lnls-sol/project-nheengatu.git
+     $ git clone --recurse-submodules https://github.com/lnls-sol/project-nheengatu.git
 
 
-## Core repositories
+## Nheengatu Pepositories
 
 * [Labview library](https://github.com/lnls-sol/nheengatu-labview.git)
 * [Linux-RT libary](https://github.com/lnls-sol/nheengatu-linuxlibs.git)
