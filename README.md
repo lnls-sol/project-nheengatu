@@ -8,12 +8,17 @@ also developed. The developed device support together with the devised libraries
 whether implemented on the FPGA, or on LinuxRT as a LabVIEW-RT VI. Other helper projects such as setting up a clean compactRIO
 and configuration generation scripts were also developed.
 
+## Cloning
+
+ $ git clone --recurse-submodules https://github.com/lnls-sol/project-nheengatu.git
+
+
 ## Core repositories
 
-* [crio-labview](https://github.com/lnls-sol/nheengatu-labview.git)
-* [crio-linux-libs](https://github.com/lnls-sol/nheengatu-linuxlibs.git)
-* [crio-epics-dev-sup](https://github.com/lnls-sol/nheengatu-devsup.git)
-* [crio-epics-ioc](https://github.com/lnls-sol/nheengatu-ioc.git) 
-* [ni-fpga-helper](https://github.com/lnls-sol/nheengatu-nifpga.git)
+* [Labview library](https://github.com/lnls-sol/nheengatu-labview.git)
+* [Linux-RT libary](https://github.com/lnls-sol/nheengatu-linuxlibs.git)
+* [EPICS device support](https://github.com/lnls-sol/nheengatu-devsup.git)
+* [EPICS IOC](https://github.com/lnls-sol/nheengatu-ioc.git) 
+* [NI FPGA library](https://github.com/lnls-sol/nheengatu-nifpga.git)
 * [Autogeneration Scripts](https://github.com/lnls-sol/nheengatu-autogenscripts.git)
 * [CRIO first setup](https://github.com/lnls-sol/nheengatu-criofirstsetup.git)
