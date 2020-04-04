@@ -8,6 +8,11 @@ also developed. The developed device support together with the devised libraries
 whether implemented on the FPGA, or on LinuxRT as a LabVIEW-RT VI. Other helper projects such as setting up a clean compactRIO
 and configuration generation scripts were also developed.
 
+## Need to know
+
+ * We use the Nheengatu library, device support, and IOC from our network file system (NFS). That is why you may find several configurations that use NFS. Nheengatu can also be directly installed on the CompactRIO. If you have difficulties performing the installations, feel free to contact the author.
+
+
 ## Cloning
 
      $ git clone --recurse-submodules https://github.com/lnls-sol/project-nheengatu.git
