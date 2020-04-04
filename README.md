@@ -17,6 +17,10 @@ and configuration generation scripts were also developed.
 
      $ git clone --recurse-submodules https://github.com/lnls-sol/project-nheengatu.git
 
+## Getting the lastest of submodules
+
+     $ git submodule foreach --recursive git checkout master
+     
 
 ## Nheengatu Repositories
 
